@@ -10,15 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -72.59
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -27.48
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -201.848
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalRotation.w
@@ -26,15 +26,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2822470495020021605, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5389007771413187004, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: fc992a608e9c20a47a8763595cf3d5dc, type: 2}
     - target: {fileID: 8189500312329290765, guid: 9e07794a34ceb4643a9289b33def1442, type: 3}
       propertyPath: m_Name
       value: Arvore_0 Variant
